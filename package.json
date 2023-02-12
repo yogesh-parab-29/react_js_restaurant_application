@@ -1,0 +1,21 @@
+{
+  "name": "namaste_react_live_yp",
+  "version": "1.0.1",
+  "description": "Yogesh's react codebase",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "author": "Yogesh P Parab",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.8.1"
+  }
+}
